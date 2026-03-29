@@ -1,3 +1,4 @@
+
 # addlinakinyi-coder
 ## ​📝 About Me
 ​I am a passionate developer currently building my foundation in web development and software engineering. This repository is part of my journey to create a professional online presence and showcase my coding projects.
